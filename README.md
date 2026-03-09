@@ -90,7 +90,7 @@ I included a convenience PowerShell script `build_exe.ps1` that uses PyInstaller
 From PowerShell run:
 
 ```powershell
-cd "c:\Users\Tuba Khan\Downloads\mouse\hand_mouse_control"
+cd "c:\Users\neha\Downloads\mouse\hand_mouse_control"
 python -m pip install --upgrade pip; python -m pip install pyinstaller
 .\build_exe.ps1
 ```
